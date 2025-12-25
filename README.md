@@ -1,6 +1,6 @@
 ## Project 1: Data Preparation and Feature Engineering
 
-Notebook: Project_1.ipynb
+Notebook: [Project_1.ipynb](https://github.com/weijiannn/Data-Science-and-Gen-AI/blob/main/Project_1.ipynb)
 
 Dataset: UK Online Retail Transactions (Kaggle)
 
@@ -15,7 +15,7 @@ This project supports discussion around data quality, preprocessing decisions, a
 
 ## Project 2: Predictive Modelling for E-commerce Sales
 
-Notebook: Project_2.ipynb
+Notebook: [Project_2.ipynb](https://github.com/weijiannn/Data-Science-and-Gen-AI/blob/main/Project_2.ipynb)
 
 Dataset: Online Retail Data (Kaggle)
 
@@ -28,7 +28,7 @@ Rather than optimising for maximum predictive accuracy, this project emphasises 
 
 ## Project 3: Introductory Natural Language Processing for Customer Reviews
 
-Notebook: Project_3.ipynb
+Notebook: [Project_3.ipynb](https://github.com/weijiannn/Data-Science-and-Gen-AI/blob/main/Project_3.ipynb)
 
 Dataset: Women’s Clothing E-Commerce Reviews (Kaggle)
 
