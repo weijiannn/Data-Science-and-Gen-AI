@@ -1,4 +1,4 @@
-Project 1: Data Preparation and Feature Engineering
+## Project 1: Data Preparation and Feature Engineering
 
 Notebook: Project_1.ipynb
 
@@ -13,7 +13,7 @@ The notebook explores common issues found in transactional e-commerce data, such
 
 This project supports discussion around data quality, preprocessing decisions, and the importance of feature engineering in e-commerce analytics.
 
-Project 2: Predictive Modelling for E-commerce Sales
+## Project 2: Predictive Modelling for E-commerce Sales
 
 Notebook: Project_2.ipynb
 
@@ -26,7 +26,7 @@ This project builds on prepared transactional data to demonstrate supervised mac
 
 Rather than optimising for maximum predictive accuracy, this project emphasises model comparison, interpretation, and limitations. The notebook reflects how predictive models are commonly used in e-commerce as decision-support tools rather than fully automated decision-makers.
 
-Project 3: Introductory Natural Language Processing for Customer Reviews
+## Project 3: Introductory Natural Language Processing for Customer Reviews
 
 Notebook: Project_3.ipynb
 
