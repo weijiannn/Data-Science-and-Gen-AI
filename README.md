@@ -2,7 +2,7 @@
 
 Notebook: [Project_1.ipynb](https://github.com/weijiannn/Data-Science-and-Gen-AI/blob/main/Project_1.ipynb)
 
-Dataset: UK Online Retail Transactions (Kaggle)
+Dataset: UK Online Retail Transactions
 
 This project demonstrates the early stages of an end-to-end data science workflow on an e-commerce transaction dataset, focusing on:
 1) Data understanding
@@ -17,7 +17,7 @@ This project supports discussion around data quality, preprocessing decisions, a
 
 Notebook: [Project_2.ipynb](https://github.com/weijiannn/Data-Science-and-Gen-AI/blob/main/Project_2.ipynb)
 
-Dataset: Online Retail Data (Kaggle)
+Dataset: Online Retail Data
 
 This project builds on prepared transactional data to demonstrate supervised machine learning techniques applied to e-commerce sales data. The focus is on:
 1) Preparing data for modelling
@@ -30,7 +30,7 @@ Rather than optimising for maximum predictive accuracy, this project emphasises 
 
 Notebook: [Project_3.ipynb](https://github.com/weijiannn/Data-Science-and-Gen-AI/blob/main/Project_3.ipynb)
 
-Dataset: Women’s Clothing E-Commerce Reviews (Kaggle)
+Dataset: Women’s Clothing E-Commerce Reviews
 
 This project demonstrates the application of introductory natural language processing techniques to an e-commerce customer reviews dataset, focusing on:
 1) Text data understanding
