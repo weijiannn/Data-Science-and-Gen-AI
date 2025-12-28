@@ -1,4 +1,4 @@
-## Project 1: Data Preparation and Feature Engineering
+## Project 1: E-commerce Analysis
 
 Notebook: [Project_1.ipynb](https://github.com/weijiannn/Data-Science-and-Gen-AI/blob/main/Project_1.ipynb)
 
